@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/family/.android/build-cache/9d256605146205b81fcd0b303a466eb03e8eba4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/family/Documents/Development/PrimePhotoFrame/app/build/intermediates/pre-dexed/debug/classes_116922a5ddacc0fce46277fb18d735317e0061e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/family/.android/build-cache/f7e8f5e3abc996808e420886b35ba6d35f078a2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/family/Documents/Development/PrimePhotoFrame/app/build/intermediates/pre-dexed/debug/classes_074794590118ed3618f6257c7f63325e2699c8bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/family/.android/build-cache/2cd04ef786894f233fe30148ec6b978f4c55d067/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/family/Documents/Development/PrimePhotoFrame/app/build/intermediates/pre-dexed/debug/classes_4bd09d477fef915e735a9a1b259a88d6cb3ad321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/family/.android/build-cache/a966424c97d26b333eeb33c488437da4de2f3069/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/family/Documents/Development/PrimePhotoFrame/app/build/intermediates/pre-dexed/debug/classes_875aa9af9cd814512153f0a7d6d174bca4e2c932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/family/.android/build-cache/2e795424c5293122da7491cafbc16e124b864d32/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/family/Documents/Development/PrimePhotoFrame/app/build/intermediates/pre-dexed/debug/classes_f024da71de06e97c4ff645858716af5f00b61117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/family/.android/build-cache/2f15b9f246684fc35236768d3c00834e9c281b46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/family/Documents/Development/PrimePhotoFrame/app/build/intermediates/pre-dexed/debug/classes_049bf65cb7a8547edf6c862fc5dd334fadcae1be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/family/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/family/Documents/Development/PrimePhotoFrame/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_b8fbc2afd6e4f0493ff4444092917f155f01a258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/family/.android/build-cache/44c687771cc280139525a59a1a7a054af70ce9cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/family/Documents/Development/PrimePhotoFrame/app/build/intermediates/pre-dexed/debug/classes_66d4db8ba68c40618bc715e57da8deeb75f94893.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/family/.android/build-cache/59ca9f45560c97dd8f64fab5ff2d59eb80941763/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/family/Documents/Development/PrimePhotoFrame/app/build/intermediates/pre-dexed/debug/classes_7f3720fff003f183e5d5aa74aa198de9ea087980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/family/.android/build-cache/f49ee2011644e56f84a48250abda2a60080b496a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/family/Documents/Development/PrimePhotoFrame/app/build/intermediates/pre-dexed/debug/classes_9fee58bb97d2d87cf70b0c87279b2f11ef9b89af.jar" />
+    </item>
+
+</items>
