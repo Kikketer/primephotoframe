@@ -5,6 +5,9 @@ import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.os.Handler;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
 
@@ -49,7 +52,6 @@ public class ViewPhotosActivity extends AppCompatActivity {
                     | View.SYSTEM_UI_FLAG_HIDE_NAVIGATION);
         }
     };
-//    private View mControlsView;
     private final Runnable mShowPart2Runnable = new Runnable() {
         @Override
         public void run() {
@@ -58,7 +60,6 @@ public class ViewPhotosActivity extends AppCompatActivity {
             if (actionBar != null) {
                 actionBar.show();
             }
-//            mControlsView.setVisibility(View.VISIBLE);
         }
     };
     private boolean mVisible;
@@ -90,7 +91,6 @@ public class ViewPhotosActivity extends AppCompatActivity {
         setContentView(R.layout.activity_view_photos);
 
         mVisible = true;
-//        mControlsView = findViewById(R.id.fullscreen_content_controls);
         mContentView = findViewById(R.id.imageView2);
 
 
@@ -109,6 +109,25 @@ public class ViewPhotosActivity extends AppCompatActivity {
     }
 
     @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.signin, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle item selection
+        switch (item.getItemId()) {
+            case R.id.signinitem:
+                signIn();
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+
+    @Override
     protected void onPostCreate(Bundle savedInstanceState) {
         super.onPostCreate(savedInstanceState);
 
@@ -116,6 +135,10 @@ public class ViewPhotosActivity extends AppCompatActivity {
         // created, to briefly hint to the user that UI controls
         // are available.
         delayedHide(100);
+    }
+
+    // Sign into Amazon Prime Photos
+    private void signIn() {
     }
 
     private void toggle() {
